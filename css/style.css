@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+body{ background: #eee; }
+
+header{ background: #363636; color: #fff; text-align: center; }
+header .logo h1{ font-family: "Amatic SC", sans-serif; font-size: 60px; font-weight: bold;}
+header .logo h1 a{ color: #fff; text-decoration: none;}
+header nav ul{ list-style-type: none; padding: 0;}
+header nav ul li{ display: inline-block; }
+header nav ul li a{ color: #fff; display: block; padding: 10px;  }
+header nav ul li a:hover{ background: #eee; color: #363636; text-decoration: none;}
+
+.section{ margin: 60px auto 60px auto; }
+.sectiom img{ width: 100%; height: 10px; }
